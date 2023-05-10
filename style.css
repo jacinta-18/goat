@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    color: red;
+}
+
+body{
+    font-family: nunito;
+    padding: 10px;
+}
+
+/* the header */
+header .desc{
+
+    display: flex;
+}
